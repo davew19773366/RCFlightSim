@@ -1,4 +1,6 @@
-# The Bickley MFC RC Flight Sim
+# The Unofficial Bickley MFC RC Flight Sim
+
+**An unofficial fan game.** It is not an official Bickley Model Flying Club product (see the disclaimer below).
 
 Learn to fly radio-controlled models at the Bickley Model Flying Club field, Sutton at Hone, Kent, with Sir Bob, our illustrious chairman, as your guide.
 

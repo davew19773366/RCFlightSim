@@ -1,11 +1,17 @@
-THE BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.6 PREVIEW
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.7 PREVIEW
 Bickley Model Flying Club, Sutton at Hone, Kent
-========================================================
+=====================================================================
+
+An unofficial fan game: see the DISCLAIMER at the end.
 
 Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.1.7 (club edition)
+  - Now called The Unofficial Bickley MFC RC Flight Sim (title screen, window and
+    browser tab), to make clear it's a fan game, not an official club product
 
 NEW IN 2.1.6 (club edition)
   - Prompts name the buttons you're actually using: keyboard keys (PRESS 1 TO ARM
