@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.1
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0 BETA
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,28 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.3.0  (BETA - on the /beta/ page while it's tried out; the live game
+              stays on 2.2.1 until then)
+  - RC TRANSMITTER: fly with your own radio through a USB simulator dongle
+    (Spektrum WS1000/WS2000, Futaba, FrSky and the like) or a radio that plugs
+    in as a USB joystick. OPTIONS > RC TRANSMITTER... walks you through it:
+    throttle up and down, then each stick to both sides. It works out which
+    channel is which, how far each one goes and which way round it is, so it
+    doesn't matter how your radio is set up. A switch for X (hand launch, OK,
+    try again) is optional. Works in the Windows version, and in Chrome, Edge
+    or Firefox on a computer (a browser only notices the dongle once a stick
+    moves). Not on iPhone or iPad - Safari doesn't see them.
+  - With the transmitter there's no L1 arming: your transmitter's own throttle
+    cut switch is the safety, as at the field. The game's RATES & EXPO still
+    apply on top - set them to HIGH / 100% if you'd rather use your radio's
+    own. LEFT/RIGHT on the RC TRANSMITTER line turns it on or off
+  - STICK SETUP is now CONTROLLER STICKS: it's for game controllers only, it's
+    hidden on touch screens (where it did nothing useful), and it no longer
+    affects touch sticks, the keyboard or a transmitter
+  - Saves: this version keeps its save under a new name and copies your
+    progress over the first time. Older versions' saves are never touched, so
+    playing the beta can't upset the live game, or the other way round
 
 NEW IN 2.2.1
   - iPad, iPhone and Android with portrait (orientation) lock on: the page stays
