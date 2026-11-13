@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.0
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.1
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,21 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.2.1
+  - iPad, iPhone and Android with portrait (orientation) lock on: the page stays
+    portrait however you hold the device, and a web page isn't allowed to turn
+    itself, so you used to be stuck on TURN YOUR DEVICE SIDEWAYS. Now the game
+    draws itself turned sideways whenever the screen is portrait - hold the
+    device on its side and it's the right way up, sticks and buttons included.
+    The first time, a panel explains it and shows where the lock switch is
+    (Control Centre on iPad/iPhone, Quick Settings > Auto-rotate on Android).
+    Upside down? The round-arrow button in the corner flips it, and remembers.
+    With the lock off, nothing changes: turn the device and it lays itself out
+    normally. Computers are never turned
+  - Passing a lesson you'd already passed no longer announces its NEW
+    AIRCRAFT again. (Failing a lesson you've passed before never loses the
+    pass, the aircraft or the lessons it opened.)
 
 NEW IN 2.2.0 (club edition)
   - Figure of eight lesson redesigned: the yellow 8 in the sky is now what you're
