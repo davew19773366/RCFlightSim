@@ -1,4 +1,4 @@
-THE BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.5 PREVIEW
+THE BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.6 PREVIEW
 Bickley Model Flying Club, Sutton at Hone, Kent
 ========================================================
 
@@ -7,11 +7,25 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
+NEW IN 2.1.6 (club edition)
+  - Prompts name the buttons you're actually using: keyboard keys (PRESS 1 TO ARM
+    THE MOTOR), Xbox buttons (LB), PlayStation buttons (L1) or the touch screen
+    buttons (TAP ARM). It follows whatever you last touched
+  - Keyboard and mouse: the main keys are shown along the bottom for the first
+    20 seconds of each flight, and a MENU (ESC) box at the top can be clicked.
+    Esc also goes back on every menu screen
+  - The radar is always north-up now (N at the top)
+  - Sky compass: big N, E, S and W letters (and smaller NE, SE, SW, NW) floating
+    just above the horizon. Off to start with: Options > VISIBILITY AIDS >
+    SKY COMPASS
+  - Title screen: a short disclaimer (just for fun, not a training aid, no
+    warranty, any likeness coincidental); the full one is at the end of this file
+  - Touch screens: the START button no longer covers the title screen text
+
 NEW IN 2.1.5 (club edition)
   - Radar: a small, see-through map in the top-right corner, in every lesson and
-    in free flight. It's drawn as you see the field from the pilot box (the flying
-    area at the top, N at the bottom) and shows the plane as a yellow arrow, the
-    no-fly zones in red and a pale wedge for the way the view is looking.
+    in free flight. It shows the plane as a yellow arrow, the no-fly zones in red
+    and a pale wedge for the way the view is looking.
     Turn it off in Options > VISIBILITY AIDS > RADAR
   - Figure of eight lesson: the plane leaves a breadcrumb trail (blue in left
     turns, orange in right turns), so you can watch your 8 build up
@@ -69,7 +83,8 @@ WHAT'S IN IT
     foam flying wing, warbird, 3D foamie and a 70mm EDF jet
   - Mode 2 or Mode 1 (Options > STICK MODE); low rates at every start
   - Visibility aids for spotting the model: auto zoom, target brackets, enlarging
-    a far-away model, bright liveries, a zoom box, landing arrows, a radar
+    a far-away model, bright liveries, a zoom box, landing arrows, a radar and
+    a sky compass
   - Hold a stick click (or G) to glance at the windsock
   - Buddy box: plug in a second controller; the instructor holds LB / L1 to take over
   - Works with a controller, keyboard and mouse, or touch screen sticks
@@ -116,12 +131,23 @@ CONTROLS (shown for MODE 2; Mode 1 swaps throttle and elevator) - also on the CO
     F11             full screen
 
 DISCLAIMER
-  A free, unofficial fan game made for fun, not for sale. It is not affiliated
-  with, or endorsed by, any model aircraft manufacturer or retailer, and the
-  models in it are generic. Sir Bob is an affectionate caricature; any other
-  resemblance to real people or products is coincidental. Flight behaviour is
-  approximate: always follow the club's safety rules and your instructor when
-  flying for real.
+  A free, unofficial fan game made for fun, not for sale.
+  - The characters are fictional. Sir Bob is an affectionate caricature, and any
+    resemblance to real persons, living or dead, is purely coincidental.
+  - Any similarity to any real club, society, organisation, business or event is
+    likewise coincidental. Real places (the field, the land around it and the
+    neighbouring shooting ground) are simplified and for illustration only; their
+    appearance in the game implies no connection with, or endorsement by, their
+    owners or users.
+  - It is not affiliated with, or endorsed by, any model aircraft manufacturer or
+    retailer, and the models in it are generic. Any product names are the
+    property of their owners.
+  - It is meant to be a fun game, not a serious training aid. Flight behaviour is
+    approximate and simplified. It does not replace proper instruction: always
+    follow your club's safety rules and your instructor when flying for real.
+  - No warranty is given. The game is provided "as is", without warranty of any
+    kind, express or implied, and the authors accept no liability for any loss
+    or damage arising from its use.
 
 CREDITS
   Built with raylib 5.5 (zlib licence).
