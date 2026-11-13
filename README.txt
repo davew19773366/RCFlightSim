@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.9 PREVIEW
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,45 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.2.0 (club edition)
+  - Figure of eight lesson redesigned: the yellow 8 in the sky is now what you're
+    scored on. Fly along it and it turns green; the next bit ahead lights up white
+    to show the way. Mostly green (about 80%) is a pass, in either direction.
+    Very tolerant: 20 m either side of the line and any height above 5 m. A full
+    left and a full right circle still passes too. The guide is on by default
+    (FLIGHT PATH turns it off), and the loops are rounder and easier to follow
+  - Controls can't get stuck: whenever the screen changes, the app is switched
+    away from, the device is rotated or the window loses focus, every stick, key,
+    button and mouse button is let go. A press can't carry over into the next
+    screen either
+  - Mouse: letting go of the button anywhere (not just over the game) counts
+  - Sound: now checked automatically on every release by actually listening to
+    the game - it starts on your first tap, key or click, the motor is heard,
+    and it comes back after you switch apps or press the Xbox Guide button
+    (iPad, iPhone, Android, PC keyboard, Xbox and PlayStation pads). Also
+    fixed a harmless but untidy error the sound library left when Safari
+    wasn't ready yet
+  - Every lesson now flown by a robot test pilot before each release - a steady
+    pilot and a beginner (slow reactions, wobbly thumbs, wanders off line), in
+    calm air, 8 mph and 14 mph gusts. The beginner gets three goes, like you do.
+    What it found, and what changed:
+  - Touch and go: stopping on the field is no longer the end - open the throttle
+    and go again (you have 12 seconds)
+  - Landings: where the wheels touch down counts. Landed on the field and rolled
+    off the end into the crop? Still a landing
+  - Hover: starts higher (45 m) to give you room to get it wrong, and a nose
+    50 degrees up or more, slow, held for 3 seconds is a pass. In FORGIVING
+    crashes the prop's torque and corkscrew are gentler on the 3D foamie
+  - Warbird: the flaps used to balloon it up like a kite - now they're mostly
+    drag, as they should be. The field counts for the warbird and jet landings
+    (the runway's still best). FORGIVING: the tip stall is softer
+  - FORGIVING crashes: a prop brushing the grass on a fast take-off or landing
+    roll is no longer a prop strike, and straying into the gun club or the wood
+    during a lesson gives you 2 seconds to turn back (was 1)
+  - Behind the scenes: a full automatic test run on every release (PC, Xbox and
+    PlayStation pads, iPad, iPhone, Android, both editions), then a beta site
+    and a short real-device check before anything goes live
 
 NEW IN 2.1.9 (club edition)
   - Touch screens: fixed a stick getting stuck. Crashing in a lesson with a thumb

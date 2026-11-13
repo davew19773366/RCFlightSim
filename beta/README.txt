@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.0 BETA
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.2.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,7 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.2.0 (club edition)  (BETA - being checked on real devices before release)
+NEW IN 2.2.0 (club edition)
   - Figure of eight lesson redesigned: the yellow 8 in the sky is now what you're
     scored on. Fly along it and it turns green; the next bit ahead lights up white
     to show the way. Mostly green (about 80%) is a pass, in either direction.
@@ -21,6 +21,12 @@ NEW IN 2.2.0 (club edition)  (BETA - being checked on real devices before releas
     button and mouse button is let go. A press can't carry over into the next
     screen either
   - Mouse: letting go of the button anywhere (not just over the game) counts
+  - Sound: now checked automatically on every release by actually listening to
+    the game - it starts on your first tap, key or click, the motor is heard,
+    and it comes back after you switch apps or press the Xbox Guide button
+    (iPad, iPhone, Android, PC keyboard, Xbox and PlayStation pads). Also
+    fixed a harmless but untidy error the sound library left when Safari
+    wasn't ready yet
   - Every lesson now flown by a robot test pilot before each release - a steady
     pilot and a beginner (slow reactions, wobbly thumbs, wanders off line), in
     calm air, 8 mph and 14 mph gusts. The beginner gets three goes, like you do.
