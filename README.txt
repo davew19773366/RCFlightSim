@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.8 PREVIEW
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.1.9 PREVIEW
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,12 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.1.9 (club edition)
+  - Touch screens: fixed a stick getting stuck. Crashing in a lesson with a thumb
+    still on a stick (the screen switches to Sir Bob) could leave that stick
+    frozen in its last position afterwards. Sticks now let go whenever the
+    flying controls are hidden, and a new touch always takes the stick
 
 NEW IN 2.1.8 (club edition)
   - iPhone / iPad: sound now plays even when the device is on silent (Safari
