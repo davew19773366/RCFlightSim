@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0 BETA
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0 BETA 2
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -11,6 +11,12 @@ flight whenever you like.
 
 NEW IN 2.3.0  (BETA - on the /beta/ page while it's tried out; the live game
               stays on 2.2.1 until then)
+  - iPhone screen fix (beta 2): with portrait lock on, the game turned
+    sideways came up short with a black strip, and ARM / FLAPS sat under the
+    status bar and notch - worst from a Home Screen icon, where iOS leaves the
+    status bar out of the screen size it reports. It now fills the screen and
+    every button keeps clear of the status bar, notch and home bar, whichever
+    way round it's turned
   - RC TRANSMITTER: fly with your own radio through a USB simulator dongle
     (Spektrum WS1000/WS2000, Futaba, FrSky and the like) or a radio that plugs
     in as a USB joystick. OPTIONS > RC TRANSMITTER... walks you through it:
