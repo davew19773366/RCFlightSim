@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 1
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,34 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.4.0  (BETA 1 - on the /beta/ page while it's tried out; the live
+              game stays on 2.3.0 until then)
+  - The field looks more like the real thing, from photos taken at the club:
+    - The pits fence: the V is open at its point, with the white railing
+      down the middle and a gap either side, as you walk out to fly. The red
+      safety fence is its real size, just in front of it, and the pilots' box
+      railing is its real length with a road cone at each end. Positions were
+      measured off an overhead photo
+    - The windsock is just inside the pits fence by the opening
+    - The shelter has its two open bays, with brick patios and white garden
+      chairs, and the Union Flag on the pole, blowing with the wind like the
+      windsock. The oil drum barbecue is there too
+    - Cars and vans park on the grass (no gravel), with the mesh fence panels
+      along the field side of the car park
+    - Round the edges: the portaloo and junk pile in the north-west corner,
+      a few more trees, and pylons and glasshouses on the horizon. A deeper
+      blue sky and livelier grass
+  - FPV VIEW (free flight): PAUSED > FPV VIEW flies from the plane's nose,
+    banking and climbing with it, with a wide view like FPV goggles - you
+    see your own shadow on the grass. Lessons are always flown from the
+    pilots' box. It stays on until you turn it off or close the game
+  - The "DON'T FLY OVER THE PITS" area now matches the fence: everything
+    behind the V, starting at the opening, about 11 m behind the pilots' box.
+    The pilots' box and safety fence are outside it. The gun club, the wood
+    and the car park are unchanged, and lessons work exactly as before
+  - Saves: the same as 2.3.0, so the beta and the live game share your
+    progress and settings both ways
 
 NEW IN 2.3.0
   - iPhone screen fix: with portrait lock on, the game turned
