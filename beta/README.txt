@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0 BETA 2
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,17 +9,16 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.3.0  (BETA - on the /beta/ page while it's tried out; the live game
-              stays on 2.2.1 until then)
-  - iPhone screen fix (beta 2): with portrait lock on, the game turned
+NEW IN 2.3.0
+  - iPhone screen fix: with portrait lock on, the game turned
     sideways came up short with a black strip, and ARM / FLAPS sat under the
     status bar and notch - worst from a Home Screen icon, where iOS leaves the
     status bar out of the screen size it reports. It now fills the screen and
     every button keeps clear of the status bar, notch and home bar, whichever
     way round it's turned
   - RC TRANSMITTER: fly with your own radio through a USB simulator dongle
-    (Spektrum WS1000/WS2000, Futaba, FrSky and the like) or a radio that plugs
-    in as a USB joystick. OPTIONS > RC TRANSMITTER... walks you through it:
+    (the kind sold for PC flight simulators) or a radio that plugs in as a USB
+    joystick. OPTIONS > RC TRANSMITTER... walks you through it:
     throttle up and down, then each stick to both sides. It works out which
     channel is which, how far each one goes and which way round it is, so it
     doesn't matter how your radio is set up. A switch for X (hand launch, OK,
@@ -30,12 +29,17 @@ NEW IN 2.3.0  (BETA - on the /beta/ page while it's tried out; the live game
     cut switch is the safety, as at the field. The game's RATES & EXPO still
     apply on top - set them to HIGH / 100% if you'd rather use your radio's
     own. LEFT/RIGHT on the RC TRANSMITTER line turns it on or off
+  - TOO FAR BEHIND THE PILOT LINE now only warns once you're behind the line
+    and past the field's hedges. Flying behind the pilots over our own field
+    (climbing out over the north end of 04/22, turning behind the box) is fine
+    - the pits and car park still have their own warnings
   - STICK SETUP is now CONTROLLER STICKS: it's for game controllers only, it's
     hidden on touch screens (where it did nothing useful), and it no longer
     affects touch sticks, the keyboard or a transmitter
   - Saves: this version keeps its save under a new name and copies your
-    progress over the first time. Older versions' saves are never touched, so
-    playing the beta can't upset the live game, or the other way round
+    progress over from the older one the first time. Older versions' saves are
+    never touched, so going back to an older version (or trying a beta) can't
+    lose anything
 
 NEW IN 2.2.1
   - iPad, iPhone and Android with portrait (orientation) lock on: the page stays
@@ -239,8 +243,11 @@ DISCLAIMER
     appearance in the game implies no connection with, or endorsement by, their
     owners or users.
   - It is not affiliated with, or endorsed by, any model aircraft manufacturer or
-    retailer, and the models in it are generic. Any product names are the
-    property of their owners.
+    retailer, and the models in it are generic.
+  - Names of computers, consoles, game controllers, phones, tablets and web
+    browsers appear only to say what the game works with. They are trademarks
+    of their owners, who have no connection with this game and have not
+    endorsed it.
   - It is meant to be a fun game, not a serious training aid. Flight behaviour is
     approximate and simplified. It does not replace proper instruction: always
     follow your club's safety rules and your instructor when flying for real.
@@ -249,5 +256,7 @@ DISCLAIMER
     or damage arising from its use.
 
 CREDITS
-  Built with raylib 5.5 (zlib licence).
+  Built with raylib 5.5 (zlib licence), which includes GLFW and miniaudio; the
+  web version runs on the Emscripten runtime. Their licences and notices are in
+  THIRD-PARTY-LICENCES.txt (and built into the web page).
   Text uses DejaVu Sans Mono Bold - see FONT-LICENCE.txt.
