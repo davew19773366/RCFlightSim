@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 1
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 2
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,7 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.4.0  (BETA 1 - on the /beta/ page while it's tried out; the live
+NEW IN 2.4.0  (BETA 2 - on the /beta/ page while it's tried out; the live
               game stays on 2.3.0 until then)
   - The field looks more like the real thing, from photos taken at the club:
     - The pits fence: the V is open at its point, with the white railing
@@ -26,10 +26,26 @@ NEW IN 2.4.0  (BETA 1 - on the /beta/ page while it's tried out; the live
     - Round the edges: the portaloo and junk pile in the north-west corner,
       a few more trees, and pylons and glasshouses on the horizon. A deeper
       blue sky and livelier grass
+  - 550 HELI (beta 2): a collective-pitch helicopter for free flight, in
+    the hangar from the start. The throttle stick is the collective (-12 to
+    +12 degrees, about +3 to hover, a little above half stick); ARM is the
+    throttle hold - arm it with the collective right down and the head spools
+    up over about 5 seconds. The sticks command roll and pitch rates through a
+    flybarless controller, so it holds whatever attitude you leave it at -
+    like the real thing, it won't level itself. Heading-hold tail on the
+    rudder stick. It has ground effect in a low hover, translational lift as
+    it picks up speed, drifts with the wind, sinks in its own downwash if you
+    come straight down too fast, and autorotates: hit the throttle hold with
+    the collective low and the air coming up keeps the head turning for a
+    flare. Tip it over on the ground with the rotor turning and it's a blade
+    strike. HEAD on the screen is the rotor speed
   - FPV VIEW (free flight): PAUSED > FPV VIEW flies from the plane's nose,
     banking and climbing with it, with a wide view like FPV goggles - you
     see your own shadow on the grass. Lessons are always flown from the
     pilots' box. It stays on until you turn it off or close the game
+  - The hangar now shows each model on the grass in front of the pilots'
+    box, looking out over the field (beta 2: the new safety fence was in
+    the way behind it)
   - The "DON'T FLY OVER THE PITS" area now matches the fence: everything
     behind the V, starting at the opening, about 11 m behind the pilots' box.
     The pilots' box and safety fence are outside it. The gun club, the wood
