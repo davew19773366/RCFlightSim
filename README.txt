@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.2
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.5.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,20 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.5.0
+  - FIELD OF VIEW setting (OPTIONS > VISIBILITY AIDS): how much of the field
+    the pilot's view takes in, from 40 to 80 degrees across the screen. A
+    narrower view makes the model look nearer and faster, more like it does
+    at the field. AUTO (the default) suits your screen: 55 degrees on a
+    monitor, 45 on a phone or tablet (they fill less of your sight). The
+    old view was about 75 degrees on a widescreen monitor - pick 80 to get
+    close to it back.
+  - The circuits and figure-of-eight lessons keep at least 60 degrees, so
+    more of the yellow guide ahead stays on the screen.
+  - Auto zoom never goes wider than the field of view you've chosen; FPV
+    keeps its own wide goggle view.
+  - Your settings and progress carry over from 2.4 automatically.
 
 NEW IN 2.4.2
   - New players start in the WIDE view rather than auto zoom. If you've
