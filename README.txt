@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.3.0
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,68 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.4.0
+  - The field looks more like the real thing, from photos taken at the club:
+    - The pits fence: the V is open at its point, with the white railing
+      down the middle and a gap either side, as you walk out to fly. The red
+      safety fence is its real size, just in front of it, and the pilots' box
+      railing is its real length with a road cone at each end. Positions were
+      measured off an overhead photo
+    - The windsock is just inside the pits fence by the opening
+    - The shelter has its two open bays, with brick patios and white garden
+      chairs, and the Union Flag on the pole, blowing with the wind like the
+      windsock. The oil drum barbecue is there too
+    - Cars and vans park on the grass (no gravel), with the mesh fence panels
+      along the field side of the car park
+    - Round the edges: the portaloo and junk pile in the north-west corner,
+      a few more trees, and pylons and glasshouses on the horizon. A deeper
+      blue sky and livelier grass
+  - 550 HELI: a collective-pitch helicopter for free flight, in
+    the hangar from the start. The throttle stick is the collective (-12 to
+    +12 degrees, about +3 to hover, a little above half stick); ARM is the
+    throttle hold - arm it with the collective right down and the head spools
+    up over about 5 seconds. The sticks command roll and pitch rates through a
+    flybarless controller, so it holds whatever attitude you leave it at -
+    like the real thing, it won't level itself. Heading-hold tail on the
+    rudder stick. It has ground effect in a low hover, translational lift as
+    it picks up speed, drifts with the wind, sinks in its own downwash if you
+    come straight down too fast, and autorotates: hit the throttle hold with
+    the collective low and the air coming up keeps the head turning for a
+    flare. Tip it over on the ground with the rotor turning and it's a blade
+    strike. HEAD on the screen is the rotor speed. Out of range (700 m)
+    its failsafe cuts the motor and sets the collective just below zero,
+    so it comes down in autorotation
+  - CHRISTMAS: choose OPTIONS > SEASON > CHRISTMAS for the field
+    under snow - white fields and grass with the hedges, furrows and trees
+    showing through, snow on the shelter roof and the patios, a heavy pale
+    sky, and snow falling and drifting with the wind (FPV too). A Christmas
+    tree with coloured lights and a star between the shelter's patios,
+    fairy lights along the shelter, a snowman out on the grass to the right
+    of the pilots' box, and MERRY CHRISTMAS on the main menu. It's off
+    until you choose it and lasts until you close the game - your save
+    keeps AUTUMN or SUMMER, so older versions sharing the save never see
+    it. The snow is only scenery: the ground, the physics and the lessons
+    are exactly the same
+  - FPV VIEW (free flight): PAUSED > FPV VIEW flies from the plane's nose,
+    banking and climbing with it, with a wide view like FPV goggles - you
+    see your own shadow on the grass. Lessons are always flown from the
+    pilots' box. It stays on until you turn it off or close the game
+  - The hangar now shows each model on the grass in front of the pilots'
+    box, looking out over the field
+  - SOLID FENCES: the V fences, the white railing in the opening,
+    the red safety fence, and the pilots' box railing and its cones are now
+    solid - catch one low and it's "HIT THE FENCE". Fly over them, or out
+    through the gaps in the V (mind your wingtips: each gap is about 2.3 m),
+    and you're fine
+  - Hand launches are thrown into wind as before, but never back over the
+    pits: with the wind from behind the pilot line, it's thrown across it
+    instead, clear of the safety fence and the V
+  - The "DON'T FLY OVER THE PITS" area now matches the fence: everything
+    behind the V, starting at the opening, about 11 m behind the pilots' box.
+    The pilots' box and safety fence are outside it. The gun club, the wood
+    and the car park are unchanged, and lessons work exactly as before
+  - Saves: the same as 2.3.0, so your progress and settings carry over
 
 NEW IN 2.3.0
   - iPhone screen fix: with portrait lock on, the game turned

@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 4
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,8 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
-              game stays on 2.3.0 until then)
+NEW IN 2.4.0
   - The field looks more like the real thing, from photos taken at the club:
     - The pits fence: the V is open at its point, with the white railing
       down the middle and a gap either side, as you walk out to fly. The red
@@ -26,7 +25,7 @@ NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
     - Round the edges: the portaloo and junk pile in the north-west corner,
       a few more trees, and pylons and glasshouses on the horizon. A deeper
       blue sky and livelier grass
-  - 550 HELI (beta 2): a collective-pitch helicopter for free flight, in
+  - 550 HELI: a collective-pitch helicopter for free flight, in
     the hangar from the start. The throttle stick is the collective (-12 to
     +12 degrees, about +3 to hover, a little above half stick); ARM is the
     throttle hold - arm it with the collective right down and the head spools
@@ -41,7 +40,7 @@ NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
     strike. HEAD on the screen is the rotor speed. Out of range (700 m)
     its failsafe cuts the motor and sets the collective just below zero,
     so it comes down in autorotation
-  - CHRISTMAS (beta 3): choose OPTIONS > SEASON > CHRISTMAS for the field
+  - CHRISTMAS: choose OPTIONS > SEASON > CHRISTMAS for the field
     under snow - white fields and grass with the hedges, furrows and trees
     showing through, snow on the shelter roof and the patios, a heavy pale
     sky, and snow falling and drifting with the wind (FPV too). A Christmas
@@ -57,9 +56,8 @@ NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
     see your own shadow on the grass. Lessons are always flown from the
     pilots' box. It stays on until you turn it off or close the game
   - The hangar now shows each model on the grass in front of the pilots'
-    box, looking out over the field (beta 2: the new safety fence was in
-    the way behind it)
-  - SOLID FENCES (beta 4): the V fences, the white railing in the opening,
+    box, looking out over the field
+  - SOLID FENCES: the V fences, the white railing in the opening,
     the red safety fence, and the pilots' box railing and its cones are now
     solid - catch one low and it's "HIT THE FENCE". Fly over them, or out
     through the gaps in the V (mind your wingtips: each gap is about 2.3 m),
@@ -71,8 +69,7 @@ NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
     behind the V, starting at the opening, about 11 m behind the pilots' box.
     The pilots' box and safety fence are outside it. The gun club, the wood
     and the car park are unchanged, and lessons work exactly as before
-  - Saves: the same as 2.3.0, so the beta and the live game share your
-    progress and settings both ways
+  - Saves: the same as 2.3.0, so your progress and settings carry over
 
 NEW IN 2.3.0
   - iPhone screen fix: with portrait lock on, the game turned
