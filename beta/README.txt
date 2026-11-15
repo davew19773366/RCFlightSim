@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.1 BETA 1
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.1
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,7 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.4.1  (BETA 1)
+NEW IN 2.4.1
   - The high-wing sports model is now red on top of the wing and tailplane
     (like its cowl and fin) with white tips, and white underneath with dark
     stripes. A dark top was the wrong way round: the sun lights the top,
