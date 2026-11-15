@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.1
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.2
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -8,6 +8,12 @@ Learn to fly radio-controlled models at our own field, with Sir Bob, our
 illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
+
+NEW IN 2.4.2
+  - New players start in the WIDE view rather than auto zoom. If you've
+    played before, your own choice is kept - the VIEW button (Triangle /
+    Y, E on a keyboard, VIEW on a touch screen) cycles WIDE, ZOOM and BOX,
+    or set it in OPTIONS > VISIBILITY AIDS > VIEW
 
 NEW IN 2.4.1
   - The high-wing sports model is now red on top of the wing and tailplane
