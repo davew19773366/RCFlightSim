@@ -18,10 +18,10 @@ NEW IN THE CHRISTMAS BETA  (beta 2 with Christmas mode added, on the
     coloured lights and a star between the shelter's patios, fairy lights
     along the shelter, and a snowman out on the grass to the right of the
     pilots' box. MERRY CHRISTMAS on the main menu
-  - It starts in Christmas mode; OPTIONS > SEASON switches between
-    AUTUMN, SUMMER and CHRISTMAS. Christmas lasts until you close the
-    game - your save keeps AUTUMN or SUMMER, so the live game and the
-    other betas, which share the save, are never affected
+  - Turn it on in OPTIONS > SEASON > CHRISTMAS (it's off until you
+    choose it). Christmas lasts until you close the game - your save
+    keeps AUTUMN or SUMMER, so the live game and the other betas, which
+    share the save, are never affected
   - Everything else is exactly as beta 2: the club scenery, FPV view, the
     550 heli, the hangar facing the field
 
