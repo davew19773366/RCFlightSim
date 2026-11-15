@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 3
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 4
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,7 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.4.0  (BETA 3 - on the /beta/ page while it's tried out; the live
+NEW IN 2.4.0  (BETA 4 - on the /beta/ page while it's tried out; the live
               game stays on 2.3.0 until then)
   - The field looks more like the real thing, from photos taken at the club:
     - The pits fence: the V is open at its point, with the white railing
@@ -59,6 +59,14 @@ NEW IN 2.4.0  (BETA 3 - on the /beta/ page while it's tried out; the live
   - The hangar now shows each model on the grass in front of the pilots'
     box, looking out over the field (beta 2: the new safety fence was in
     the way behind it)
+  - SOLID FENCES (beta 4): the V fences, the white railing in the opening,
+    the red safety fence, and the pilots' box railing and its cones are now
+    solid - catch one low and it's "HIT THE FENCE". Fly over them, or out
+    through the gaps in the V (mind your wingtips: each gap is about 2.3 m),
+    and you're fine
+  - Hand launches are thrown into wind as before, but never back over the
+    pits: with the wind from behind the pilot line, it's thrown across it
+    instead, clear of the safety fence and the V
   - The "DON'T FLY OVER THE PITS" area now matches the fence: everything
     behind the V, starting at the opening, about 11 m behind the pilots' box.
     The pilots' box and safety fence are outside it. The gun club, the wood
