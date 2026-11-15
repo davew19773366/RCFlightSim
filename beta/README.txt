@@ -1,4 +1,4 @@
-THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 2
+THE UNOFFICIAL BICKLEY MFC RC FLIGHT SIM - CLUB EDITION 2.4.0 BETA 3
 Bickley Model Flying Club, Sutton at Hone, Kent
 =====================================================================
 
@@ -9,7 +9,7 @@ illustrious chairman, as your guide: 13 lessons from first take-off to jet low
 passes, seven models to unlock, realistic wind, thermals and physics, and free
 flight whenever you like.
 
-NEW IN 2.4.0  (BETA 2 - on the /beta/ page while it's tried out; the live
+NEW IN 2.4.0  (BETA 3 - on the /beta/ page while it's tried out; the live
               game stays on 2.3.0 until then)
   - The field looks more like the real thing, from photos taken at the club:
     - The pits fence: the V is open at its point, with the white railing
@@ -38,7 +38,20 @@ NEW IN 2.4.0  (BETA 2 - on the /beta/ page while it's tried out; the live
     come straight down too fast, and autorotates: hit the throttle hold with
     the collective low and the air coming up keeps the head turning for a
     flare. Tip it over on the ground with the rotor turning and it's a blade
-    strike. HEAD on the screen is the rotor speed
+    strike. HEAD on the screen is the rotor speed. Out of range (700 m)
+    its failsafe cuts the motor and sets the collective just below zero,
+    so it comes down in autorotation
+  - CHRISTMAS (beta 3): choose OPTIONS > SEASON > CHRISTMAS for the field
+    under snow - white fields and grass with the hedges, furrows and trees
+    showing through, snow on the shelter roof and the patios, a heavy pale
+    sky, and snow falling and drifting with the wind (FPV too). A Christmas
+    tree with coloured lights and a star between the shelter's patios,
+    fairy lights along the shelter, a snowman out on the grass to the right
+    of the pilots' box, and MERRY CHRISTMAS on the main menu. It's off
+    until you choose it and lasts until you close the game - your save
+    keeps AUTUMN or SUMMER, so older versions sharing the save never see
+    it. The snow is only scenery: the ground, the physics and the lessons
+    are exactly the same
   - FPV VIEW (free flight): PAUSED > FPV VIEW flies from the plane's nose,
     banking and climbing with it, with a wide view like FPV goggles - you
     see your own shadow on the grass. Lessons are always flown from the
